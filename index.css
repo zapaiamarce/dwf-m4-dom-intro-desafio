@@ -1,0 +1,10 @@
+.lista {
+  background-color: aqua;
+}
+.lista-alternativa {
+  background-color: teal;
+}
+.lista li {
+  border: solid violet 3px;
+  margin: 5px;
+}

@@ -1,11 +1,12 @@
 .lista {
-  background-color: aqua;
+    background-color: aqua;
 }
 
 .lista li {
-  border: solid violet 3px;
-  margin: 5px;
+    border: solid violet 3px;
+    margin: 5px;
 }
+
 .lista li.special {
-  background-color: tomato;
+    background-color: tomato;
 }

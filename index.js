@@ -36,7 +36,6 @@ function main() {
     const newLiEl = document.createElement("li");
     newLiEl.textContent = item.tema;
     newLiEl.classList.add(item.class || "item");
-    console.log(newLiEl);
 
     listEl.appendChild(newLiEl)
   }
